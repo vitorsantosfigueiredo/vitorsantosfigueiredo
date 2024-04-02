@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @vitorsantosfigueiredo
 - 👀 I’m interested in agriculture, 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning remote sensing
+- 💞️ I’m looking to collaborate on application development for agriculture 
 
 <!---
 vitorsantosfigueiredo/vitorsantosfigueiredo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
