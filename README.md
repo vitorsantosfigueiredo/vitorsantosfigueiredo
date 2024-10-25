@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vitorsantosfigueiredo
-- 👀 I’m interested in agriculture, 
+- 👀 I’m interested in agriculture, R Language, Python, Bash, ZSH
 - 🌱 I’m currently learning remote sensing
 - 💞️ I’m looking to collaborate on application development for agriculture 
 
