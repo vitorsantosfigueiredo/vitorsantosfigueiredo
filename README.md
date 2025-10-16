@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @vitorsantosfigueiredo
-- 👀 I’m interested in agriculture, R Language, Python, Latex, Bash, ZSH
+- 👋 Hi, I'm Vitor
+- 👀 I’m interested in agriculture, R Language, Python, Latex, Bash, Rust, C
 - 🌱 I’m currently learning remote sensing
-- 💞️ I’m looking to collaborate on application development for agriculture 
+-   I’m looking to collaborate on application development for agriculture 
 
 <!---
 vitorsantosfigueiredo/vitorsantosfigueiredo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
